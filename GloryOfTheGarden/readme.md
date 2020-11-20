@@ -4,7 +4,7 @@
 
 ## Description
 
-> This [garden](./GloryOfTheGarden/garden.jpg) contains more than it seems.
+> This [garden](../GloryOfTheGarden/garden.jpg) contains more than it seems.
 
 ---
 
